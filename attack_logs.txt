@@ -1,0 +1,381 @@
+12:29:46 ALERT [MEDIUM] Score:-0.02 | [142, 0, 0, 0]
+12:29:47 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:29:47 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:29:56 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:29:56 ALERT [MEDIUM] Score:-0.02 | [78, 0, 0, 0]
+12:30:16 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:30:16 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:30:30 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 56321, 443]
+12:30:30 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 56321, 443]
+12:30:30 ALERT [MEDIUM] Score:-0.0 | [1266, 2, 443, 56321]
+12:30:30 ALERT [MEDIUM] Score:-0.0 | [1266, 2, 443, 56321]
+12:30:30 ALERT [MEDIUM] Score:-0.0 | [1266, 2, 443, 56321]
+12:32:39 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:32:39 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:33:08 ALERT [HIGH] Score:-0.0 | [2115, 1, 59781, 443]
+12:33:10 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 61612, 443]
+12:33:10 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 61612, 443]
+12:33:12 ALERT [MEDIUM] Score:-0.0 | [1266, 2, 443, 61612]
+12:33:12 ALERT [MEDIUM] Score:-0.0 | [1266, 2, 443, 61612]
+12:33:12 ALERT [MEDIUM] Score:-0.0 | [1266, 2, 443, 61612]
+12:33:13 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 61612, 443]
+12:33:14 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 61612, 443]
+12:33:14 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 61612, 443]
+12:33:15 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 61612, 443]
+12:33:15 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 61612, 443]
+12:37:27 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:27 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:27 ALERT [MEDIUM] Score:-0.0 | [1266, 2, 443, 50905]
+12:37:28 ALERT [MEDIUM] Score:-0.0 | [1266, 2, 443, 50905]
+12:37:28 ALERT [MEDIUM] Score:-0.0 | [1266, 2, 443, 50905]
+12:37:29 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:29 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:30 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:30 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:30 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:31 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:31 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:31 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:32 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:32 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:32 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:32 ALERT [MEDIUM] Score:-0.01 | [1292, 2, 50905, 443]
+12:37:33 ALERT [MEDIUM] Score:-0.0 | [1070, 2, 50905, 443]
+12:38:00 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:38:00 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:38:00 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:38:00 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+12:39:12 ALERT [MEDIUM] Score:-0.02 | [142, 0, 0, 0]
+12:39:13 ALERT [MEDIUM] Score:-0.02 | [142, 0, 0, 0]
+12:39:13 ALERT [MEDIUM] Score:-0.02 | [142, 0, 0, 0]
+15:01:15 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+15:01:16 ALERT [MEDIUM] Score:-0.02 | [78, 0, 0, 0]
+15:01:18 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+15:01:18 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+15:02:08 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+15:02:08 ALERT [MEDIUM] Score:-0.02 | [78, 0, 0, 0]
+15:02:17 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+15:02:17 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+15:02:18 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+15:02:18 ALERT [MEDIUM] Score:-0.02 | [86, 0, 0, 0]
+00:23:14 ALERT [HIGH] Score:-0.0 | [1987, 1, 62690, 443]
+00:23:14 ALERT [HIGH] Score:-0.0 | [1987, 1, 54065, 443]
+00:23:15 ALERT [HIGH] Score:-0.02 | [2883, 1, 62690, 443]
+14:02:46  ✓  NORMAL | size=747 proto=TCP sport=50531 dport=80
+14:02:46  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+14:02:47  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+14:02:48  ✓  NORMAL | size=603 proto=UDP sport=55769 dport=443
+14:02:49  ✓  NORMAL | size=512 proto=UDP sport=53 dport=53
+14:02:49  ✓  NORMAL | size=103 proto=UDP sport=22493 dport=443
+14:02:50  ✓  NORMAL | size=220 proto=TCP sport=48601 dport=53
+14:02:50  ✓  NORMAL | size=149 proto=TCP sport=28665 dport=443
+14:02:51  ✓  NORMAL | size=107 proto=UDP sport=50974 dport=443
+14:02:52  ✓  NORMAL | size=540 proto=UDP sport=43238 dport=443
+14:02:52  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+14:02:53  ✓  NORMAL | size=105 proto=TCP sport=42864 dport=8080
+14:02:53  ⚠  ATTACK [HIGH] | Normal | MITRE: T???? | size=1053 proto=UDP sport=2265 dport=53
+14:02:54  ✓  NORMAL | size=681 proto=TCP sport=31888 dport=8080
+14:02:54  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+14:02:55  ✓  NORMAL | size=813 proto=UDP sport=63534 dport=443
+14:02:56  ✓  NORMAL | size=570 proto=UDP sport=63040 dport=443
+14:02:57  ✓  NORMAL | size=1263 proto=TCP sport=36053 dport=22
+14:02:57  ✓  NORMAL | size=723 proto=UDP sport=6737 dport=443
+14:02:58  ✓  NORMAL | size=275 proto=TCP sport=26937 dport=80
+14:02:59  ✓  NORMAL | size=851 proto=UDP sport=11314 dport=53
+14:02:59  ✓  NORMAL | size=830 proto=UDP sport=26501 dport=22
+14:02:59  ✓  NORMAL | size=549 proto=TCP sport=63912 dport=443
+14:03:00  ✓  NORMAL | size=1380 proto=TCP sport=53404 dport=8080
+14:03:01  ✓  NORMAL | size=485 proto=UDP sport=45446 dport=80
+14:28:00  ✓  NORMAL | size=214 proto=UDP sport=40619 dport=80
+14:28:00  ✓  NORMAL | size=1393 proto=TCP sport=25098 dport=80
+14:28:01  ✓  NORMAL | size=925 proto=TCP sport=22343 dport=53
+14:28:02  ✓  NORMAL | size=843 proto=UDP sport=28758 dport=80
+14:28:02  ✓  NORMAL | size=338 proto=TCP sport=15483 dport=443
+14:28:03  ✓  NORMAL | size=200 proto=TCP sport=55000 dport=22
+14:28:04  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+14:28:04  ✓  NORMAL | size=435 proto=UDP sport=59909 dport=8080
+14:28:05  ⚠  ATTACK [HIGH] | Normal | MITRE: T???? | size=1111 proto=UDP sport=47634 dport=53
+14:28:05  ✓  NORMAL | size=494 proto=UDP sport=40542 dport=53
+14:28:06  ✓  NORMAL | size=1200 proto=TCP sport=44321 dport=3306
+14:28:06  ✓  NORMAL | size=93 proto=TCP sport=60151 dport=22
+14:28:07  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+14:28:08  ✓  NORMAL | size=571 proto=TCP sport=40792 dport=8080
+14:28:08  ✓  NORMAL | size=1240 proto=TCP sport=9923 dport=22
+14:28:09  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1242 proto=UDP sport=16447 dport=443
+14:28:09  ✓  NORMAL | size=1040 proto=TCP sport=64200 dport=8080
+14:28:10  ✓  NORMAL | size=544 proto=UDP sport=42050 dport=443
+14:28:11  ✓  NORMAL | size=901 proto=TCP sport=41378 dport=22
+14:28:11  ✓  NORMAL | size=502 proto=UDP sport=23085 dport=8080
+14:28:12  ⚠  ATTACK [HIGH] | Normal | MITRE: T???? | size=1446 proto=UDP sport=52512 dport=53
+14:28:12  ✓  NORMAL | size=71 proto=UDP sport=40042 dport=80
+14:28:13  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1270 proto=UDP sport=36320 dport=443
+14:28:14  ✓  NORMAL | size=434 proto=UDP sport=31302 dport=443
+14:28:14  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+14:28:15  ✓  NORMAL | size=401 proto=UDP sport=63139 dport=22
+14:28:15  ✓  NORMAL | size=190 proto=UDP sport=6353 dport=8080
+14:28:16  ✓  NORMAL | size=1200 proto=TCP sport=44321 dport=3306
+14:28:16  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1098 proto=UDP sport=35468 dport=443
+14:31:38  ✓  NORMAL | size=1200 proto=TCP sport=44321 dport=3306
+14:31:39  ✓  NORMAL | size=316 proto=UDP sport=8916 dport=443
+14:31:40  ✓  NORMAL | size=512 proto=UDP sport=53 dport=53
+14:31:40  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+14:31:41  ✓  NORMAL | size=174 proto=TCP sport=38920 dport=8080
+14:31:42  ✓  NORMAL | size=140 proto=TCP sport=1709 dport=22
+14:31:43  ✓  NORMAL | size=895 proto=UDP sport=41158 dport=53
+14:31:43  ✓  NORMAL | size=430 proto=TCP sport=21813 dport=53
+14:31:44  ✓  NORMAL | size=533 proto=UDP sport=16265 dport=8080
+14:31:44  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+14:31:45  ✓  NORMAL | size=1243 proto=TCP sport=6292 dport=80
+14:31:45  ✓  NORMAL | size=190 proto=TCP sport=16142 dport=443
+14:31:46  ✓  NORMAL | size=1354 proto=TCP sport=17152 dport=80
+14:31:46  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1270 proto=UDP sport=38750 dport=80
+14:31:47  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+14:31:48  ✓  NORMAL | size=512 proto=UDP sport=53 dport=53
+14:31:48  ✓  NORMAL | size=327 proto=UDP sport=13527 dport=53
+14:31:49  ✓  NORMAL | size=192 proto=UDP sport=17803 dport=22
+14:31:50  ✓  NORMAL | size=112 proto=UDP sport=18664 dport=8080
+14:31:51  ✓  NORMAL | size=512 proto=UDP sport=53 dport=53
+14:31:51  ✓  NORMAL | size=224 proto=TCP sport=9620 dport=443
+14:31:52  ⚠  ATTACK [CRITICAL] | Normal | MITRE: T???? | size=1327 proto=UDP sport=7250 dport=22
+14:31:52  ✓  NORMAL | size=881 proto=TCP sport=11781 dport=22
+14:31:53  ✓  NORMAL | size=204 proto=UDP sport=49128 dport=53
+14:31:54  ✓  NORMAL | size=620 proto=UDP sport=46637 dport=8080
+14:31:54  ✓  NORMAL | size=219 proto=UDP sport=1875 dport=53
+14:31:55  ✓  NORMAL | size=200 proto=TCP sport=55000 dport=22
+14:31:56  ✓  NORMAL | size=104 proto=UDP sport=60035 dport=53
+14:31:56  ✓  NORMAL | size=512 proto=UDP sport=53 dport=53
+14:31:56  ⚠  ATTACK [CRITICAL] | Normal | MITRE: T???? | size=1234 proto=UDP sport=23573 dport=22
+14:31:57  ✓  NORMAL | size=1487 proto=TCP sport=62997 dport=443
+14:31:58  ✓  NORMAL | size=200 proto=UDP sport=4340 dport=22
+14:31:58  ✓  NORMAL | size=131 proto=UDP sport=58305 dport=22
+14:31:59  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1322 proto=UDP sport=17562 dport=80
+14:31:59  ✓  NORMAL | size=118 proto=UDP sport=27834 dport=80
+14:32:41  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1451 proto=UDP sport=30294 dport=80
+14:32:42  ✓  NORMAL | size=527 proto=TCP sport=44388 dport=443
+14:32:42  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1089 proto=UDP sport=9540 dport=443
+14:32:43  ✓  NORMAL | size=654 proto=UDP sport=61737 dport=53
+14:32:44  ✓  NORMAL | size=247 proto=UDP sport=61735 dport=80
+14:32:44  ✓  NORMAL | size=1431 proto=TCP sport=50656 dport=22
+14:32:45  ✓  NORMAL | size=1066 proto=TCP sport=1202 dport=8080
+14:32:46  ✓  NORMAL | size=200 proto=TCP sport=55000 dport=22
+14:32:46  ✓  NORMAL | size=1068 proto=TCP sport=3095 dport=22
+14:32:47  ✓  NORMAL | size=479 proto=UDP sport=25722 dport=80
+14:32:47  ✓  NORMAL | size=531 proto=UDP sport=4269 dport=53
+14:32:48  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+14:32:49  ✓  NORMAL | size=720 proto=TCP sport=10198 dport=22
+14:32:50  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+14:32:50  ✓  NORMAL | size=1200 proto=TCP sport=44321 dport=3306
+14:32:50  ✓  NORMAL | size=1295 proto=TCP sport=29208 dport=53
+14:32:51  ✓  NORMAL | size=190 proto=UDP sport=21399 dport=22
+14:32:52  ✓  NORMAL | size=467 proto=UDP sport=40086 dport=53
+14:32:52  ✓  NORMAL | size=660 proto=TCP sport=21123 dport=53
+14:32:53  ✓  NORMAL | size=980 proto=TCP sport=21432 dport=443
+14:32:54  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=981 proto=UDP sport=2181 dport=80
+14:32:54  ⚠  ATTACK [CRITICAL] | Data Exfil | MITRE: T1041 – Exfiltration Over C2 Channel | size=8000 proto=TCP sport=9999 dport=443
+14:32:55  ✓  NORMAL | size=314 proto=TCP sport=46233 dport=443
+14:32:55  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1066 proto=UDP sport=14436 dport=8080
+14:32:56  ✓  NORMAL | size=315 proto=TCP sport=47061 dport=8080
+14:32:56  ✓  NORMAL | size=873 proto=TCP sport=26756 dport=8080
+14:32:57  ✓  NORMAL | size=398 proto=UDP sport=39452 dport=443
+14:32:58  ✓  NORMAL | size=82 proto=UDP sport=61402 dport=22
+14:32:58  ⚠  ATTACK [HIGH] | Normal | MITRE: T???? | size=1378 proto=UDP sport=53818 dport=53
+14:32:59  ✓  NORMAL | size=891 proto=UDP sport=32051 dport=22
+14:33:00  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+14:33:28  ✓  NORMAL | size=1176 proto=TCP sport=6774 dport=80
+14:33:29  ✓  NORMAL | size=330 proto=UDP sport=18210 dport=22
+14:33:29  ✓  NORMAL | size=743 proto=UDP sport=16535 dport=80
+14:33:30  ✓  NORMAL | size=512 proto=UDP sport=53 dport=53
+14:33:31  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1327 proto=UDP sport=9693 dport=443
+14:33:32  ✓  NORMAL | size=352 proto=TCP sport=41786 dport=443
+14:33:33  ✓  NORMAL | size=1013 proto=TCP sport=9262 dport=8080
+14:33:34  ✓  NORMAL | size=1090 proto=TCP sport=63532 dport=443
+14:33:34  ⚠  ATTACK [HIGH] | Normal | MITRE: T???? | size=1013 proto=UDP sport=29648 dport=53
+14:33:35  ✓  NORMAL | size=248 proto=TCP sport=47352 dport=8080
+14:33:36  ✓  NORMAL | size=864 proto=UDP sport=12975 dport=443
+14:33:36  ✓  NORMAL | size=468 proto=UDP sport=36881 dport=8080
+14:33:37  ✓  NORMAL | size=1145 proto=TCP sport=50023 dport=8080
+14:33:38  ✓  NORMAL | size=885 proto=UDP sport=63910 dport=53
+14:33:39  ✓  NORMAL | size=141 proto=TCP sport=54340 dport=80
+14:33:39  ✓  NORMAL | size=1444 proto=TCP sport=15613 dport=53
+14:33:40  ✓  NORMAL | size=977 proto=TCP sport=12433 dport=80
+14:33:41  ✓  NORMAL | size=667 proto=UDP sport=25090 dport=8080
+14:33:41  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1183 proto=UDP sport=12676 dport=80
+14:33:42  ✓  NORMAL | size=225 proto=TCP sport=9534 dport=22
+14:33:43  ✓  NORMAL | size=1135 proto=TCP sport=30361 dport=80
+14:33:44  ✓  NORMAL | size=887 proto=UDP sport=19466 dport=53
+14:33:44  ✓  NORMAL | size=280 proto=TCP sport=7678 dport=22
+14:33:45  ⚠  ATTACK [CRITICAL] | Data Exfil | MITRE: T1041 – Exfiltration Over C2 Channel | size=8000 proto=TCP sport=9999 dport=443
+14:33:45  ✓  NORMAL | size=431 proto=UDP sport=52181 dport=53
+23:27:29  ✓  NORMAL | size=873 proto=UDP sport=8034 dport=8080
+23:27:30  ⚠  ATTACK [HIGH] | Normal | MITRE: T???? | size=1356 proto=UDP sport=45299 dport=53
+23:27:31  ✓  NORMAL | size=384 proto=UDP sport=51109 dport=443
+23:27:31  ✓  NORMAL | size=469 proto=TCP sport=16117 dport=8080
+23:27:32  ✓  NORMAL | size=536 proto=UDP sport=31214 dport=22
+23:27:33  ✓  NORMAL | size=843 proto=UDP sport=62140 dport=8080
+23:27:34  ✓  NORMAL | size=908 proto=UDP sport=50968 dport=80
+23:27:34  ✓  NORMAL | size=512 proto=UDP sport=53 dport=53
+23:27:35  ✓  NORMAL | size=314 proto=UDP sport=22855 dport=8080
+23:27:35  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1393 proto=UDP sport=57593 dport=80
+23:27:36  ✓  NORMAL | size=875 proto=TCP sport=28938 dport=443
+23:27:36  ✓  NORMAL | size=917 proto=TCP sport=35394 dport=22
+23:27:37  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+23:27:37  ✓  NORMAL | size=746 proto=UDP sport=44619 dport=22
+23:27:38  ✓  NORMAL | size=1200 proto=TCP sport=44321 dport=3306
+23:27:39  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1158 proto=UDP sport=12535 dport=443
+23:27:39  ✓  NORMAL | size=1200 proto=TCP sport=44321 dport=3306
+23:27:40  ✓  NORMAL | size=280 proto=UDP sport=40445 dport=22
+23:27:41  ✓  NORMAL | size=668 proto=TCP sport=30695 dport=80
+23:27:41  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+23:27:42  ✓  NORMAL | size=167 proto=UDP sport=23090 dport=80
+23:27:42  ✓  NORMAL | size=765 proto=UDP sport=20559 dport=8080
+23:27:43  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1087 proto=UDP sport=57259 dport=8080
+23:27:43  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1111 proto=UDP sport=34592 dport=443
+23:27:44  ✓  NORMAL | size=236 proto=UDP sport=59626 dport=80
+23:27:44  ✓  NORMAL | size=791 proto=UDP sport=39378 dport=8080
+23:27:45  ✓  NORMAL | size=395 proto=UDP sport=38605 dport=443
+23:27:46  ✓  NORMAL | size=784 proto=UDP sport=41192 dport=8080
+23:27:46  ✓  NORMAL | size=826 proto=UDP sport=45849 dport=8080
+23:27:47  ✓  NORMAL | size=724 proto=TCP sport=31542 dport=22
+23:27:48  ✓  NORMAL | size=1309 proto=TCP sport=56170 dport=8080
+23:27:48  ✓  NORMAL | size=1226 proto=TCP sport=31697 dport=80
+23:27:49  ✓  NORMAL | size=157 proto=UDP sport=25117 dport=443
+23:27:49  ✓  NORMAL | size=1413 proto=TCP sport=11912 dport=80
+23:27:50  ⚠  ATTACK [CRITICAL] | Data Exfil | MITRE: T1041 – Exfiltration Over C2 Channel | size=8000 proto=TCP sport=9999 dport=443
+23:27:50  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1163 proto=UDP sport=34665 dport=8080
+23:27:51  ✓  NORMAL | size=475 proto=TCP sport=31556 dport=443
+23:27:51  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+23:27:52  ✓  NORMAL | size=383 proto=TCP sport=43889 dport=8080
+23:27:52  ✓  NORMAL | size=301 proto=TCP sport=63069 dport=80
+23:27:53  ✓  NORMAL | size=200 proto=TCP sport=55000 dport=22
+23:27:54  ✓  NORMAL | size=255 proto=UDP sport=57938 dport=8080
+10:12:28  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1249 proto=UDP sport=23806 dport=80
+10:12:29  ✓  NORMAL | size=904 proto=TCP sport=15652 dport=22
+10:12:29  ✓  NORMAL | size=266 proto=TCP sport=61051 dport=8080
+10:12:29  ✓  NORMAL | size=1482 proto=TCP sport=19104 dport=80
+10:12:30  ✓  NORMAL | size=273 proto=TCP sport=14547 dport=80
+10:12:31  ✓  NORMAL | size=81 proto=UDP sport=23770 dport=22
+10:12:31  ✓  NORMAL | size=512 proto=UDP sport=53 dport=53
+10:12:32  ✓  NORMAL | size=904 proto=TCP sport=11250 dport=80
+10:12:32  ✓  NORMAL | size=339 proto=TCP sport=18735 dport=53
+10:12:33  ✓  NORMAL | size=700 proto=UDP sport=23688 dport=80
+10:12:33  ✓  NORMAL | size=1354 proto=TCP sport=4037 dport=22
+10:12:34  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+10:12:35  ✓  NORMAL | size=891 proto=TCP sport=21143 dport=8080
+10:12:35  ✓  NORMAL | size=243 proto=UDP sport=52706 dport=22
+10:12:36  ✓  NORMAL | size=593 proto=TCP sport=29712 dport=53
+10:12:36  ✓  NORMAL | size=836 proto=TCP sport=35258 dport=8080
+10:12:37  ✓  NORMAL | size=1489 proto=TCP sport=54755 dport=80
+10:12:38  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+10:12:38  ⚠  ATTACK [CRITICAL] | Normal | MITRE: T???? | size=993 proto=UDP sport=57462 dport=22
+10:12:39  ✓  NORMAL | size=690 proto=TCP sport=21095 dport=8080
+10:12:40  ✓  NORMAL | size=803 proto=UDP sport=42191 dport=8080
+10:12:41  ⚠  ATTACK [HIGH] | Normal | MITRE: T???? | size=1253 proto=UDP sport=8628 dport=53
+10:12:41  ✓  NORMAL | size=542 proto=UDP sport=38589 dport=53
+10:12:42  ✓  NORMAL | size=1429 proto=TCP sport=13723 dport=8080
+10:12:43  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1244 proto=UDP sport=16970 dport=443
+10:12:43  ✓  NORMAL | size=356 proto=UDP sport=8863 dport=8080
+10:12:44  ✓  NORMAL | size=1226 proto=TCP sport=23690 dport=53
+10:12:45  ✓  NORMAL | size=602 proto=UDP sport=15823 dport=22
+10:12:45  ✓  NORMAL | size=122 proto=UDP sport=40107 dport=22
+10:12:46  ⚠  ATTACK [CRITICAL] | Data Exfil | MITRE: T1041 – Exfiltration Over C2 Channel | size=8000 proto=TCP sport=9999 dport=443
+10:12:47  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1199 proto=UDP sport=22694 dport=8080
+10:12:47  ✓  NORMAL | size=192 proto=TCP sport=17009 dport=22
+10:12:48  ✓  NORMAL | size=834 proto=UDP sport=9519 dport=80
+10:12:48  ✓  NORMAL | size=539 proto=UDP sport=52493 dport=80
+10:12:49  ✓  NORMAL | size=744 proto=TCP sport=14516 dport=22
+10:12:50  ✓  NORMAL | size=1381 proto=TCP sport=64208 dport=8080
+10:12:51  ✓  NORMAL | size=344 proto=UDP sport=36095 dport=22
+10:12:52  ✓  NORMAL | size=1361 proto=TCP sport=33576 dport=53
+10:12:52  ✓  NORMAL | size=264 proto=TCP sport=12068 dport=80
+10:12:53  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1272 proto=UDP sport=30600 dport=8080
+10:12:54  ✓  NORMAL | size=294 proto=UDP sport=51505 dport=53
+10:12:55  ✓  NORMAL | size=568 proto=UDP sport=28047 dport=80
+10:12:56  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1312 proto=UDP sport=19222 dport=443
+10:12:56  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=988 proto=UDP sport=46103 dport=443
+10:12:57  ✓  NORMAL | size=958 proto=TCP sport=61158 dport=443
+10:12:58  ✓  NORMAL | size=228 proto=TCP sport=29636 dport=443
+10:12:58  ✓  NORMAL | size=548 proto=UDP sport=39863 dport=53
+10:12:59  ✓  NORMAL | size=1200 proto=TCP sport=44321 dport=3306
+10:12:59  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1405 proto=UDP sport=29727 dport=80
+10:13:00  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+10:13:01  ✓  NORMAL | size=479 proto=TCP sport=47220 dport=8080
+10:13:02  ✓  NORMAL | size=80 proto=TCP sport=20499 dport=22
+10:13:02  ✓  NORMAL | size=761 proto=TCP sport=15926 dport=80
+10:13:03  ✓  NORMAL | size=1447 proto=TCP sport=29346 dport=53
+10:13:04  ✓  NORMAL | size=1274 proto=TCP sport=36036 dport=22
+10:13:04  ✓  NORMAL | size=512 proto=UDP sport=53 dport=53
+10:13:05  ⚠  ATTACK [HIGH] | Normal | MITRE: T???? | size=1177 proto=UDP sport=55106 dport=53
+10:13:05  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+18:53:13  ✓  NORMAL | size=227 proto=TCP sport=61219 dport=443
+18:53:13  ✓  NORMAL | size=645 proto=TCP sport=7570 dport=80
+18:53:14  ⚠  ATTACK [HIGH] | Normal | MITRE: T???? | size=924 proto=UDP sport=25300 dport=53
+18:53:15  ✓  NORMAL | size=666 proto=TCP sport=49620 dport=8080
+18:53:16  ✓  NORMAL | size=60 proto=TCP sport=54321 dport=80
+18:53:16  ✓  NORMAL | size=597 proto=TCP sport=49168 dport=53
+18:53:17  ✓  NORMAL | size=202 proto=TCP sport=25948 dport=53
+18:53:17  ✓  NORMAL | size=1480 proto=TCP sport=45908 dport=53
+18:53:18  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1353 proto=UDP sport=22670 dport=80
+18:53:47  ✓  NORMAL | size=458 proto=TCP sport=35420 dport=80
+18:53:47  ✓  NORMAL | size=399 proto=UDP sport=8508 dport=22
+18:53:47  ✓  NORMAL | size=613 proto=UDP sport=36467 dport=443
+18:53:48  ✓  NORMAL | size=1052 proto=TCP sport=24821 dport=8080
+18:53:49  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1363 proto=UDP sport=45872 dport=443
+18:53:49  ✓  NORMAL | size=684 proto=UDP sport=36188 dport=80
+18:53:50  ✓  NORMAL | size=927 proto=TCP sport=28682 dport=53
+18:53:51  ✓  NORMAL | size=845 proto=TCP sport=21968 dport=443
+18:53:51  ✓  NORMAL | size=738 proto=UDP sport=1378 dport=8080
+18:53:52  ✓  NORMAL | size=761 proto=TCP sport=34629 dport=443
+18:53:52  ✓  NORMAL | size=1178 proto=TCP sport=30413 dport=8080
+18:53:52  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1006 proto=UDP sport=56736 dport=8080
+18:53:53  ✓  NORMAL | size=1189 proto=TCP sport=34483 dport=443
+18:53:54  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1007 proto=UDP sport=37092 dport=80
+18:53:55  ✓  NORMAL | size=727 proto=UDP sport=24742 dport=443
+18:53:56  ✓  NORMAL | size=584 proto=TCP sport=37032 dport=22
+18:53:57  ✓  NORMAL | size=385 proto=UDP sport=32164 dport=443
+18:53:58  ✓  NORMAL | size=800 proto=UDP sport=37809 dport=22
+18:53:59  ✓  NORMAL | size=845 proto=UDP sport=34422 dport=8080
+18:53:59  ✓  NORMAL | size=603 proto=TCP sport=22489 dport=80
+18:54:00  ✓  NORMAL | size=1200 proto=TCP sport=44321 dport=3306
+18:54:01  ✓  NORMAL | size=1200 proto=TCP sport=44321 dport=3306
+18:54:01  ✓  NORMAL | size=457 proto=TCP sport=31075 dport=53
+18:54:02  ✓  NORMAL | size=255 proto=UDP sport=30922 dport=22
+18:54:02  ✓  NORMAL | size=1006 proto=TCP sport=56185 dport=53
+18:54:03  ✓  NORMAL | size=851 proto=UDP sport=47717 dport=53
+18:54:04  ✓  NORMAL | size=118 proto=TCP sport=34394 dport=443
+18:54:04  ✓  NORMAL | size=1019 proto=TCP sport=46716 dport=443
+18:54:05  ✓  NORMAL | size=297 proto=TCP sport=36995 dport=8080
+18:54:06  ✓  NORMAL | size=423 proto=TCP sport=30181 dport=443
+18:54:07  ✓  NORMAL | size=747 proto=TCP sport=23796 dport=53
+18:54:07  ✓  NORMAL | size=512 proto=UDP sport=53 dport=53
+18:54:08  ✓  NORMAL | size=85 proto=UDP sport=28983 dport=80
+18:54:09  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1463 proto=UDP sport=35392 dport=80
+18:54:09  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1108 proto=UDP sport=5606 dport=80
+18:54:10  ✓  NORMAL | size=826 proto=UDP sport=2178 dport=22
+18:54:11  ✓  NORMAL | size=170 proto=UDP sport=5723 dport=8080
+18:54:11  ✓  NORMAL | size=154 proto=TCP sport=5985 dport=80
+18:54:12  ✓  NORMAL | size=282 proto=UDP sport=1719 dport=22
+18:54:12  ✓  NORMAL | size=834 proto=UDP sport=13581 dport=8080
+18:54:13  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1485 proto=UDP sport=38178 dport=8080
+18:54:13  ⚠  ATTACK [CRITICAL] | Data Exfil | MITRE: T1041 – Exfiltration Over C2 Channel | size=8000 proto=TCP sport=9999 dport=443
+18:54:14  ✓  NORMAL | size=854 proto=TCP sport=53508 dport=8080
+18:54:14  ⚠  ATTACK [CRITICAL] | Data Exfil | MITRE: T1041 – Exfiltration Over C2 Channel | size=8000 proto=TCP sport=9999 dport=443
+18:54:15  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1095 proto=UDP sport=15947 dport=8080
+18:54:15  ✓  NORMAL | size=1124 proto=TCP sport=57819 dport=8080
+18:54:16  ✓  NORMAL | size=654 proto=UDP sport=11579 dport=80
+18:54:16  ✓  NORMAL | size=831 proto=TCP sport=17139 dport=22
+18:54:17  ✓  NORMAL | size=492 proto=TCP sport=20748 dport=53
+18:54:18  ⚠  ATTACK [CRITICAL] | Normal | MITRE: T???? | size=1118 proto=UDP sport=8416 dport=22
+18:54:18  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1146 proto=UDP sport=35408 dport=80
+18:54:18  ✓  NORMAL | size=722 proto=TCP sport=41550 dport=8080
+18:54:19  ✓  NORMAL | size=807 proto=UDP sport=65178 dport=443
+18:54:20  ✓  NORMAL | size=64 proto=TCP sport=12345 dport=22
+18:54:20  ✓  NORMAL | size=200 proto=TCP sport=55000 dport=22
+18:54:21  ✓  NORMAL | size=222 proto=UDP sport=22345 dport=80
+18:54:21  ⚠  ATTACK [CRITICAL] | Data Exfil | MITRE: T1041 – Exfiltration Over C2 Channel | size=8000 proto=TCP sport=9999 dport=443
+18:54:21  ✓  NORMAL | size=118 proto=TCP sport=52900 dport=53
+18:54:21  ✓  NORMAL | size=932 proto=TCP sport=47500 dport=443
+18:54:22  ⚠  ATTACK [MEDIUM] | Normal | MITRE: T???? | size=1493 proto=UDP sport=24991 dport=443
+18:54:22  ⚠  ATTACK [HIGH] | Normal | MITRE: T???? | size=1336 proto=UDP sport=26082 dport=53
+18:54:22  ✓  NORMAL | size=73 proto=UDP sport=30367 dport=443
+18:54:23  ✓  NORMAL | size=1226 proto=TCP sport=22135 dport=53
+18:54:23  ✓  NORMAL | size=187 proto=TCP sport=54703 dport=80

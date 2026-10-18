@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.ensemble import IsolationForest
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, precision_score, recall_score
 import matplotlib.pyplot as plt
 
 
@@ -11,6 +11,11 @@ import matplotlib.pyplot as plt
 # -----------------------------
 train = pd.read_csv("train.txt", header=None)
 test = pd.read_csv("test.txt", header=None)
+
+y_train = (train[41] != "normal").astype(int)
+y_test = (test[41] != "normal").astype(int)
+train = train.drop(columns=[41, 42])
+test = test.drop(columns=[41, 42])
 
 # -----------------------------
 # 2. FORCE ENCODE ALL COLUMNS
@@ -27,11 +32,8 @@ for col in train.columns:
 # -----------------------------
 # 3. SPLIT FEATURES & LABELS
 # -----------------------------
-X_train = train.iloc[:, :-1]
-y_train = train.iloc[:, -1]
-
-X_test = test.iloc[:, :-1]
-y_test = test.iloc[:, -1]
+X_train = train
+X_test = test
 
 # -----------------------------
 # 4. SCALE DATA
@@ -43,8 +45,8 @@ X_test = scaler.transform(X_test)
 # -----------------------------
 # 5. TRAIN MODEL
 # -----------------------------
-model = IsolationForest(contamination=0.1, random_state=42)
-model.fit(X_train)
+model = IsolationForest(n_estimators=200, contamination=0.3, random_state=42)
+model.fit(X_train[y_train == 0])
 
 # -----------------------------
 # 6. PREDICT
@@ -55,13 +57,14 @@ pred = model.predict(X_test)
 pred = [1 if p == -1 else 0 for p in pred]
 
 # -----------------------------
-# 7. ACCURACY
+# 7. ACCURACY, PRECISION & RECALL
 # -----------------------------
-# Convert y_test to binary (just in case)
-y_test = [0 if y == y_test[0] else 1 for y in y_test]
-
 accuracy = accuracy_score(y_test, pred)
+precision = precision_score(y_test, pred, zero_division=0)
+recall = recall_score(y_test, pred, zero_division=0)
 print("Accuracy:", accuracy)
+print("Precision:", precision)
+print("Recall:", recall)
 
 # -----------------------------
 # 8. GRAPH
